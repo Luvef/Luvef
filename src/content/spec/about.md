@@ -1,7 +1,6 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
-
-::github{repo="saicaca/fuwari"}
+﻿# 关于Luvef
+这是一个基于Fuwari搭建的个人博客
+![Luvef](/images/LuvefProfile.png)
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
